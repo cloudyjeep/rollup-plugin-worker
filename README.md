@@ -12,7 +12,7 @@ Adds code splitting for module Workers and Worklets to Rollup.
 ## Installation
 
 ```sh
-yarn add -D git+https://github.com/johanholmerin/rollup-plugin-worker#semver:^2.0.0
+yarn add -D git+https://github.com/cloudyjeep/rollup-plugin-worker#semver:^2.0.0
 ```
 
 ## Usage
